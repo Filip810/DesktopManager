@@ -1,0 +1,3 @@
+C:/Users/filip/OneDrive/Pulpit/DesktopSorter/build/CMakeFiles/my_program.dir
+C:/Users/filip/OneDrive/Pulpit/DesktopSorter/build/CMakeFiles/edit_cache.dir
+C:/Users/filip/OneDrive/Pulpit/DesktopSorter/build/CMakeFiles/rebuild_cache.dir
